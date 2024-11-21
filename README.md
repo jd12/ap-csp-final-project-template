@@ -16,6 +16,24 @@ Whether you choose one from the list above or find another API, I would recommen
 - Does not require a credit card (which means it should be free)
 - Has good documentation with examples
 
+Make sure you can actually grab data from your API. Use this code to test your API. You can plug it into your previous project or place it into a console in your browser 
+```
+const url = `INSERT URL HERE`;
+const options = {
+   method: "GET",
+};
+
+fetch(url, options)
+  .then((response) =>
+    response.json().then((result) => {
+       console.log(result);
+    })
+   )
+   .catch((error) => {
+    console.log(error);
+  });
+```
+
 ### Chosen API
 
 [Replace this with your chosen API]
