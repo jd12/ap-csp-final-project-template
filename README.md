@@ -65,3 +65,13 @@ then
 `node server.js`
 
 ### External Resources
+
+## Part V - Complete Google Doc
+
+Complete Google Doc about your project
+
+[Google Doc Template](https://docs.google.com/document/d/13qV28dQQ1foELBEA7lA9Imha7U4v1BoypI4pZIlsH-A/edit?tab=t.0)
+
+Make a copy fill it out, and then paste the link below
+
+[Replace with your google doc link]
